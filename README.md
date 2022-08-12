@@ -8,3 +8,4 @@
 </div>
 
 
+![Snake animation](https://github.com/LeoAzzE/LeoAzzE/blob/output/github-contribution-grid-snake.svg)
