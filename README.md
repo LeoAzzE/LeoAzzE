@@ -1,4 +1,6 @@
-### 👋 Hi, I’m @LeoAzzE , Technology Lover<h2/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=D20000&background=FF000000&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Leonardo+Chaves;I+from+Brazil;and+I+study+system+development;Be+welcome++%3DD)](https://git.io/typing-svg)
+<br><br/>
+<br><br/>
 <div align="center">  
   <a href="https://github.com/LeoAzzE">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoAzzE&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
