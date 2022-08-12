@@ -1,11 +1,12 @@
-<h2> 👋 Hi, I’m @LeoAzzE , Technology lover<h2/>
+### 👋 Hi, I’m @LeoAzzE , Technology Lover<h2/>
 <div align="center">  
   <a href="https://github.com/LeoAzzE">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoAzzE&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAzzE&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
- 
- <h2> My technologies currently: <h2/>
+  
+<br><br/>
+## My Currently Technologies:
 <div style = "display: inline_block">
     <img align="center" width="70" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" width="70" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -13,5 +14,11 @@
     <img align="center" width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align="center" width="70" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />    
 <div/>
-
+  
+<br><br/>
+## My Social Medias:
+ <a href="https://www.linkedin.com/in/leo-chaves-8a471122a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/leocb_1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.facebook.com/leozin.azevedo/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  
 ![Snake animation](https://github.com/LeoAzzE/LeoAzzE/blob/output/github-contribution-grid-snake.svg)
