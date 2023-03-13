@@ -17,10 +17,9 @@
     <img align="center" width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" width="70" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />    
 <div/>
-  
-  
+<br><br/>
 <div>
-  My portfolio: https://leoazze.github.io/portfolio/
+  <a href="https://leoazze.github.io/portfolio/" target="_blank"></a>
 <div/>
   
 <br><br/>
