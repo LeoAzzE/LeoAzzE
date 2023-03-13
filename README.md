@@ -19,7 +19,7 @@
 <div/>
 <br><br/>
 <div>
-  <a href="https://leoazze.github.io/portfolio/" target="_blank"> <h2>Portfólio<h2/></a>
+  <a href="https://leoazze.github.io/portfolio/" target="_blank">PORTFÓLIO</a>
 <div/>
   
 <br><br/>
