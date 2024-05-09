@@ -19,7 +19,7 @@
     <img align="center" width="70" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />    
 <div/>
 <br><br/>
-<div>
+<div  align="center">
   <a href="https://leoazze.github.io/portfolio/" target="_blank">PORTFÓLIO</a>
 <div/>
   
