@@ -20,9 +20,7 @@
   
 <div/>
 <br><br/>
-<div  align="center">
-  <a href="https://leoazze.github.io/portfolio/" target="_blank">PORTFÓLIO</a>
-<div/>
+
   
 <br><br/>
 ## My Social Medias:
